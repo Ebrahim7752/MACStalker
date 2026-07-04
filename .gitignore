@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+nuitka-venv/
+build_out/
