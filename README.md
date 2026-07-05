@@ -115,6 +115,6 @@ cd MACStalker
 
 chmod +x install.sh
 
-./install.sh
+sudo ./install.sh
 
 sudo macstalker
