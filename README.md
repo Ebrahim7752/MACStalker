@@ -109,7 +109,7 @@ MACStalker can be used in:
 ```bash
 sudo apt update && sudo apt upgrade -y
 
-git clone https://github.com/Ebrahim7752/MACStalker.git
+git clone https://github.com/IbrahimB-M/MACStalker.git
 
 cd MACStalker
 
